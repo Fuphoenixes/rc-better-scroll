@@ -1,0 +1,33 @@
+{
+  "name": "rc-better-scroll",
+  "version": "1.0.2",
+  "description": "react scroll component",
+  "main": "dist/bundle.js",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "keywords": ["rc-better-scroll","react-bescroll","react-better-scroll","react-scroll","better-scroll"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "better-scroll": "^1.12.6",
+    "prop-types": "^15.6.0",
+    "react": "^16.2.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-1": "6.5.0",
+    "css-loader": "^0.28.9",
+    "style-loader": "^0.19.1",
+    "webpack": "^3.10.0",
+    "webpack-node-externals": "^1.6.0",
+    "url-loader": "^1.1.1"
+  }
+}
