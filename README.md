@@ -3,7 +3,8 @@
 
 1. 本项目是[better-scroll](https://github.com/ustbhuangyi/better-scroll)在React中的一种实现。
 2. 适用于移动端
-3. 本项目改至 [react-bescroll](https://github.com/soluteli/react-bscroll) 在此感谢!!!
+3. [项目源码](https://github.com/Fuphoenixes/rc-better-scroll)
+4. 本项目改至 [react-bescroll](https://github.com/soluteli/react-bscroll) 在此感谢!!!
 
 ## Install
 

@@ -1,6 +1,6 @@
 {
   "name": "rc-better-scroll",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "react scroll component",
   "main": "dist/bundle.js",
   "files": [
