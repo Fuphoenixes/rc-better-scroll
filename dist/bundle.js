@@ -1446,7 +1446,7 @@ exports = module.exports = __webpack_require__(2)(false);
 
 
 // module
-exports.push([module.i, "\n  .b-wrapper {\n    position: absolute;\n    left: 0;\n    top: 0;\n    right: 0;\n    bottom: 0;\n    overflow: hidden;\n  }\n\n  .b-pullup-wrapper {\n    width: 100%;\n    display: flex;\n    justify-content: center;\n    align-items: center;\n    height: 60px;\n    line-height: 60px;\n  }\n\n  .b-pulldown-wrapper {\n    position: absolute;\n    width: 100%;\n    top: 0;\n    left: 0;\n    display: flex;\n    justify-content: center;\n    align-items: center;\n    transition: all;\n    pointer-events: none;\n  }\n\n  .b-pulldown-wrapper .after-trigger {\n    margin-top: 10px\n  }\n\n  .b-scroll-content{\n    padding-top:.1rem;\n    min-height: 100%;\n  }\n", ""]);
+exports.push([module.i, "\n  .b-wrapper {\n    position: absolute;\n    left: 0;\n    top: 0;\n    right: 0;\n    bottom: 0;\n    overflow: hidden;\n  }\n\n  .b-pullup-wrapper {\n    width: 100%;\n    display: flex;\n    justify-content: center;\n    align-items: center;\n    height: 60px;\n    line-height: 60px;\n  }\n\n  .b-pulldown-wrapper {\n    position: absolute;\n    width: 100%;\n    top: 0;\n    left: 0;\n    display: flex;\n    justify-content: center;\n    align-items: center;\n    transition: all;\n    pointer-events: none;\n  }\n\n  .b-pulldown-wrapper .after-trigger {\n    margin-top: 10px\n  }\n\n  .b-scroll-content{\n    padding-bottom:1px;\n    min-height: 100%;\n  }\n", ""]);
 
 // exports
 

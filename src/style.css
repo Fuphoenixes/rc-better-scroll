@@ -34,6 +34,6 @@
   }
 
   .b-scroll-content{
-    padding-top:.1rem;
+    padding-bottom:1px;
     min-height: 100%;
   }
