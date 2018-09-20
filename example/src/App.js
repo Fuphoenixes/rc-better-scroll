@@ -30,7 +30,7 @@ class App extends Component {
 			    pullUpLoad={this.loadMoreData}
 		    >
 			    <ul>
-				    <li>aaaaaasdadwd</li>
+				    <li>pc切换手机预览模式记得刷新一下</li>
 				    <li>aaaaaasdadwd</li>
 				    <li>aaaaaasdadwd</li>
 				    <li>aaaaaasdadwd</li>
