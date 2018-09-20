@@ -1,7 +1,7 @@
 {
   "name": "rc-better-scroll",
-  "version": "1.0.3",
-  "description": "react scroll component",
+  "version": "1.0.4",
+  "description": "react scroll component,支持上拉加载，下拉刷新",
   "main": "dist/bundle.js",
   "files": [
     "dist"
@@ -10,7 +10,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack"
   },
-  "keywords": ["rc-better-scroll","react-bescroll","react-better-scroll","react-scroll","better-scroll"],
+  "keywords": ["rc-better-scroll","react-bescroll","react-better-scroll","react-scroll","better-scroll","scroll"],
   "author": "",
   "license": "ISC",
   "dependencies": {

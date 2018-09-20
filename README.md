@@ -1,4 +1,4 @@
-# rc-react-scroll
+# rc-better-scroll
 ---
 
 1. 本项目是[better-scroll](https://github.com/ustbhuangyi/better-scroll)在React中的一种实现。
@@ -9,18 +9,18 @@
 ## Install
 
 ```
-npm install rc-react-scroll
+npm install rc-better-scroll
 ```
 或
 ```
-yarn add rc-react-scroll
+yarn add rc-better-scroll
 ```
 
 
 ## Usage
 
 ```
-import Srcoll from 'rc-react-scroll';
+import Srcoll from 'rc-better-scroll';
 
 render() {
     return (
@@ -65,8 +65,8 @@ render() {
 | bounce | Boolean | true | 是否开启回弹 |
 | disabled | Boolean | false | 是否禁用 better-scroll |
 | stopPropagation | Boolean | false | 默认不阻止事件冒泡 |
-| pullUpLoad | Function | null | 上拉加载时触发的异步加载数据的方法,需要返回一个resolved状态的Promise来刷新BetterScroll,
-| pullDownRefresh | Function | null | 下拉加载时的回调函数,需要返回一个resolved状态的Promise来刷新BetterScroll。
+| pullUpLoad | Function | null | 上拉加载时触发的异步加载数据的方法,需要返回Promise来刷新BetterScroll,resolve加载成功，reject加载失败，建议直接使用async await
+| pullDownRefresh | Function | null | 下拉加载时的回调函数,需要返回一个Promise来刷新BetterScroll,resolve刷新成功，reject刷新失败,建议直接使用async await
 | doScroll | Function | null | 滚动时的触发回调函数 |
 | doScrollStart | Function | null | 滚动开始时的触发事件 |
 | doScrollEnd | Function | null | 滚动结束时的操作 |
