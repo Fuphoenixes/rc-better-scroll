@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="83fc29ca-9ffd-43ac-b252-7d86106e0927" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/build/asset-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/example/build/asset-manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/example/build/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/build/service-worker.js" beforeDir="false" afterPath="$PROJECT_DIR$/example/build/service-worker.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/build/static/js/main.951ec392.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/build/static/js/main.951ec392.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/example/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/example/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/example/src/App.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -83,11 +76,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/example/build/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="92" selection-start-column="92" selection-end-column="92" />
+              <caret column="54" lean-forward="true" selection-start-column="54" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="App.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/example/src/App.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" column="23" lean-forward="true" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -106,15 +108,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="paths.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/example/config/paths.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="245">
-              <caret line="36" column="67" selection-start-line="36" selection-start-column="67" selection-end-line="36" selection-end-column="67" />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FindInProjectRecents">
@@ -129,7 +122,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/style.css" />
-        <option value="$PROJECT_DIR$/example/src/App.css" />
         <option value="$PROJECT_DIR$/example/.gitignore" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/example/config/paths.js" />
@@ -137,6 +129,7 @@
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/example/package.json" />
+        <option value="$PROJECT_DIR$/example/src/App.css" />
       </list>
     </option>
   </component>
@@ -186,6 +179,12 @@
             <path>
               <item name="rc-better-scroll" type="b2602c69:ProjectViewProjectNode" />
               <item name="rc-better-scroll" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rc-better-scroll" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rc-better-scroll" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -224,12 +223,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1537405950624</updated>
-      <workItem from="1537405952106" duration="6144000" />
+      <workItem from="1537405952106" duration="6276000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6144000" />
+    <option name="totallyTimeSpent" value="6276000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -266,13 +265,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
           <caret line="8" column="17" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/example/src/App.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -393,7 +385,14 @@
     <entry file="file://$PROJECT_DIR$/example/build/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="92" selection-start-column="92" selection-end-column="92" />
+          <caret column="54" lean-forward="true" selection-start-column="54" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example/src/App.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="23" lean-forward="true" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
         </state>
       </provider>
     </entry>
