@@ -29,10 +29,6 @@
     pointer-events: none;
   }
 
-  .b-pulldown-wrapper .after-trigger {
-    margin-top: 10px
-  }
-
   .b-scroll-content{
     padding-bottom:1px;
     min-height: 100%;

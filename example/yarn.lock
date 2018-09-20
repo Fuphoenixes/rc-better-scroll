@@ -5456,9 +5456,9 @@ raw-body@2.3.2:
     iconv-lite "0.4.19"
     unpipe "1.0.0"
 
-rc-better-scroll@1.0.5:
-  version "1.0.5"
-  resolved "http://registry.npm.taobao.org/rc-better-scroll/download/rc-better-scroll-1.0.5.tgz#becd3bdd1fa6651b8884cb9ad6b417f69602a883"
+rc-better-scroll@1.0.6:
+  version "1.0.6"
+  resolved "http://registry.npm.taobao.org/rc-better-scroll/download/rc-better-scroll-1.0.6.tgz#a2e83c6b9906b32af122b48d59cf44a16071ed3f"
   dependencies:
     better-scroll "^1.12.6"
     prop-types "^15.6.0"
