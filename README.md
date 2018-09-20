@@ -6,6 +6,9 @@
 3. [项目源码](https://github.com/Fuphoenixes/rc-better-scroll)
 4. 本项目改至 [react-bescroll](https://github.com/soluteli/react-bscroll) 在此感谢!!!
 
+## Examples
+[demo](https://fuphoenixes.github.io/rc-better-scroll/example/build/)
+
 ## Install
 
 ```
@@ -72,5 +75,3 @@ render() {
 | doScrollEnd | Function | null | 滚动结束时的操作 |
 | isPullUpTipHide | Boolean | true | 主要用于在上拉加载可用时，若列表数据不足一页，则要隐藏底部提示；若超过一页则显示。 |
 
-## Examples
-敬请期待
