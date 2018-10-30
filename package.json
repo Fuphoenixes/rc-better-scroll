@@ -1,6 +1,6 @@
 {
   "name": "rc-better-scroll",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "react scroll component,支持上拉加载，下拉刷新",
   "main": "dist/bundle.js",
   "files": [
